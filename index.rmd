@@ -1,0 +1,15 @@
+---
+title: "10:00 Section"
+output: html_document
+---
+####*Maddie Castele*
+
+####*October 18, 2017*
+
+Here is some arthmetic
+```{r}
+x<-7
+y<-9
+x-cos(y)
+```
+
