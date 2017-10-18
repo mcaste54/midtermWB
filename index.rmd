@@ -6,7 +6,7 @@ output: html_document
 
 ####*October 18, 2017*
 
-Here is some arthmetic
+Here is some arithmetic
 ```{r}
 x<-7
 y<-9
